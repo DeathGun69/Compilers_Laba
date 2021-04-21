@@ -7,6 +7,7 @@ namespace Laba_5
 {
     public class Program
     {
+        //Строка
         private const string Str = "(a+a)+a#";
         private static Stack<int> _stateStack;
         private static int _index = 0;
